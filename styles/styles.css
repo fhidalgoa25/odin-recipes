@@ -1,0 +1,81 @@
+/* Ayuditas pa vacilar */
+/* *{
+    outline: 2px solid red;
+} */
+
+/* span{
+    outline: 2px solid yellow;
+} */
+
+div{
+    outline: 2px solid green;
+}
+/* Ayuditas para vacilar */
+
+
+.HeroBanner{
+    background-color: #F5F5F5;
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding: 88px;
+    margin-bottom: 72px;
+}
+.PageContent{
+    margin-inline: 64px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 64px;
+    font-weight: lighter;
+}
+
+.Card{
+    display: inline-block;
+    width: 313px;
+    height: 440px;
+    margin-right: 20px;
+    background-color: #F5F5F5;
+    border-radius: 8px;
+}
+
+.CardContent{
+    display: inline;
+    padding: 16px;
+    width: 416px;
+    height: 180px;
+}
+
+.CardHeader{
+    display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: lighter;
+}
+
+.CardDescription{
+    display: block;
+    margin-block: 8px;
+    font-family: 'Arial', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.Button1{
+    display: block;
+    padding: 24px 16px;
+    background-color: #333231;
+    border-radius: 8px;
+    color: #F5F5F5;
+    font-family: 'Arial', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin-left: 254px;
+    margin-top: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.ImageCard{
+
+}
